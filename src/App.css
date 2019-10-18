@@ -27,7 +27,7 @@
 }
 
 .search-bar input {
-  width: 75%;
+  width: 55%;
 }
 
 .video-list img {
@@ -39,6 +39,10 @@
   padding: 10px;
   border: 1px solid #ddd;
   border-radius: 4px;
+}
+
+.list-flex{
+  display: flex;
 }
 
 .list-group-item {
